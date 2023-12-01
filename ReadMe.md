@@ -24,3 +24,7 @@ Welcome to the repository dedicated to my Master's thesis focusing on Reinforcem
 This repository serves as a comprehensive guide and resource hub for understanding, experimenting with, and implementing RL models in the context of household energy optimization.
 
 Feel free to explore the provided resources, engage in experiments, and contribute to the advancement of Reinforcement Learning methodologies within this wonderful field.
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to my supervisor, Professor George C. Polyzos, for his continuous and valuable guidance and support during the preparation of this thesis and in my studies in general, and to Professor Iordanis Koutsopoulos for his helpful comments and constructive criticism. I am also very grateful to PhD candidate Spiros Chadoulos for the technical guidance and knowledge he provided me and the countless conversations we had, helping me to complete this thesis successfully.

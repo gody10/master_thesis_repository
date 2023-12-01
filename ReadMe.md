@@ -9,7 +9,8 @@ Welcome to the repository dedicated to my Master's thesis focusing on Reinforcem
 - **SmartHomeGymEnv_v2_deployment.py**: Gymnasium environment definition essential for training RL algorithms tailored for energy market scenarios.
 - **train_agent_on_environment.ipynb**: Notebook for training RL agents in various environmental contexts.
 - **test_agent_deployment.ipynb**: Testing pre-trained RL agents' performance on specific days within the energy market.
-- **env_5_pr_5_df_experiments_marwil/**: Folder housing checkpoints for different environment configurations used for training RL agents employing the MARWIL algorithm.
+- **LICENCE.txt**: The Licence for this work
+- **Diploma_Thesis.pdf**: The PDF of my Master thesis with the title "Residential Energy Consumption Optimization through Reinforcement Learning"
 
 ## Setup Instructions
 
